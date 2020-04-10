@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Visit: https://abstrekt.github.io/Monsters-rolodex
+
+* Udemy course Project from the course: "Complete React Developer in 2020 (w/ Redux, Hooks, GraphQL)"
+by Andrei Neagoie, Yihua Zhang
+
+
 ## Available Scripts
 
 In the project directory, you can run:
